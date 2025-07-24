@@ -59,9 +59,6 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 
 ## 🏆 Conquistas
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andersonpfontes&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ## 🌟 Projetos em Destaque
 
