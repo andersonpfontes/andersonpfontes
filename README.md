@@ -14,7 +14,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e oportunidades de aprendizado. Trabalho principalmente com desenvolvimento web moderno, focando em criar soluções eficientes e escaláveis.
 
-- 🔭 Atualmente trabalhando em projetos Vue.js e Node.js
+- 🔭 Atualmente trabalhando em projetos Com Laravel, Vue.js e Node.js
 - 🌱 Sempre aprendendo novas tecnologias e melhores práticas
 - 💡 Interessado em desenvolvimento full-stack e arquitetura de software
 - 📫 Como me encontrar: **[seu-email@exemplo.com]**
