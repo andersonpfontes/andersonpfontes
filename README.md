@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 - 🔭 Atualmente trabalhando em projetos Com Laravel, Vue.js e Node.js
 - 🌱 Sempre aprendendo novas tecnologias e melhores práticas
 - 💡 Interessado em desenvolvimento full-stack e arquitetura de software
-- 📫 Como me encontrar: **[seu-email@exemplo.com]**
+- 📫 Como me encontrar: **anderson@andersonfontes.com**
 
 ## 🛠️ Tecnologias & Ferramentas
 
